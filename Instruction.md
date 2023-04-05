@@ -10,3 +10,6 @@
 7) Wait while python works for you, it might take a while if the dataset is huge.
 
 For any queries , reach out to me via twitter [@Siddhartha_2345](https://twitter.com/Siddhartha_2345)
+
+### Note:
+No need to install any extra modules, just make sure python is installed in your system (and it is added to path).
